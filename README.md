@@ -27,12 +27,10 @@ This repository contains a collection of in-depth technical whitepapers authored
 - **Download**: [full-stack-java-test-automation-bdd-mbt.pdf](https://github.com/K11-Software-Solutions/whitepapers/blob/main/full-stack-java-test-automation-bdd-mbt.pdf)
 
 ### 4. 🏗️ Evolution of Test Automation Frameworks
-- **Summary**: A historical and practical analysis of how test automation frameworks have matured over time.
-- **Download**: 
+
 
 ### 3. 🧠 AI-Assisted Test Automation
-- **Summary**: Practical insights on integrating machine learning and GPT-based tools into modern QA pipelines.
-- **Download**:
+
 
 
 
@@ -56,6 +54,6 @@ This collection reflects my learning journey and contributions to the broader so
 
 ## 📬 Feedback & Contributions
 
-Have suggestions, ideas, or want to collaborate?  
-Open an issue or connect via LinkedIn. Contributions and constructive feedback are always welcome!
+Have feedback or want to collaborate on future whitepapers? Feel free to open an issue or reach out!
+Connect via LinkedIn. Contributions and constructive feedback are always welcome!
 
