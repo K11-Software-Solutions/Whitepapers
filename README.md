@@ -20,7 +20,6 @@ This repository contains a collection of in-depth technical whitepapers authored
 
 ### 1. 🧠🧱📋🔄Building a scalable Java Test Automation Framework for End-To-End Testing of Enterprise Applications
 - **Summary**: 🧱 ☕Java Page Object Model (POM) Based Test Automation Framework - Foundational Architecture & Guidelines. A comprehensive guide to architecting a modular, maintainable, Page Object Model (POM)-based, and CI/CD-ready Selenium framework tailored for complex, high-demand enterprise environments.
-GitHub Repository: https://github.com/K11-Software-Solutions/k11TechLab-selenium-java-fullstack-framework
 - **Download**: [building-java-test-automation-framework-enterprise-apps.pdf](https://github.com/your-username/whitepapers/raw/main/building-java-test-automation-framework-enterprise-apps.pdf)
 
 ### 2. 🛠️🧱📋🔄Full-Stack Java Test Automation for Complex Systems with Business-Centric Scenarios Using Cucumber BDD and Model-Based Testing (MBT)
