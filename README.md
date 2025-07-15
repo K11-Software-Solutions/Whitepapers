@@ -47,7 +47,7 @@ I'm a tech enthusiast with a deep interest in:
 
 This collection reflects my learning journey and contributions to the broader software engineering community.
 
-🔗 [Connect on LinkedIn]((https://www.linkedin.com/in/kavita-jadhav-tech) 
+🔗 [Connect on LinkedIn](https://www.linkedin.com/in/kavita-jadhav-tech) 
 🌐 [Visit My Blog](https://www.softwaretestautomation.org)
 
 ---
