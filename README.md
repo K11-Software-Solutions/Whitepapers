@@ -18,13 +18,20 @@ This repository contains a collection of in-depth technical whitepapers authored
 
 ## 📚 Available Whitepapers
 
-### 1. Building a scalable Java Test Automation Framework for End-To-End Testing of Enterprise Applications
-- **Summary**: 🧱 ☕Java Page Object Model (POM) Based Test Automation Framework - Foundational Architecture & Guidelines. A comprehensive guide to architecting a modular, maintainable, Page Object Model (POM)-based, and CI/CD-ready Selenium framework tailored for complex, high-demand enterprise environments.
-- **Download**: [building-java-test-automation-framework-enterprise-apps.pdf](https://github.com/K11-Software-Solutions/whitepapers/blob/main/building-java-test-automation-framework-enterprise-apps.pdf)
+
+
+
+Case Study- Modernizing Enterprise QA: From Legacy Constraints to Agile Test Automation
+
+
+
+### 1. Engineering Future-Ready Test Automation Frameworks for Hybrid Enterprise Architectures
+- **Summary**: ☕📘 This whitepaper offers a comprehensive, step-by-step blueprint for building full-stack, robust, and reusable test automation frameworks tailored for enterprise-grade applications. Case Study- Modernizing Enterprise QA: From Legacy Constraints to Agile Test Automation.
+- **Download**: [Legacy_to_Agile_QA_Automation_Kavita_Jadhav_July2025.pdf](https://github.com/K11-Software-Solutions/whitepapers/blob/main/Legacy_to_Agile_QA_Automation_Kavita_Jadhav_July2025.pdf)
 
 ### 2. Full-Stack Java Test Automation for Complex Systems with Business-Centric Scenarios Using Cucumber BDD and Model-Based Testing (MBT)
-- **Summary**:  🧱📋🔄From Model-Aware to Model-Based Testing in the Age of AI: The Path to Smarter Automation. A modern strategy for resilient automation: blending Gherkin, graph models, and execution routing to test critical workflows across UI, API, and DB layers.
-- **Download**: [full-stack-java-test-automation-bdd-mbt.pdf](https://github.com/K11-Software-Solutions/whitepapers/blob/main/full-stack-java-test-automation-bdd-mbt.pdf)
+- **Summary**:  🧱📋🔄From Model-Aware to Model-Based Testing in the Age of AI: The Path to Smarter Automation. A modern strategy for resilient automation: blending Gherkin, graph models, and execution routing to test critical workflows across UI, API, and DB layers. 📘Case Study: A BDD/MBT Hybrid Framework for Intelligent Test Automation in Modern Trading Platforms.
+- **Download**: [Full_Stack_BDD_MBT_Test_Automation_Kavita_Jadhav_2025.pdf](https://github.com/K11-Software-Solutions/whitepapers/blob/main/Full_Stack_BDD_MBT_Test_Automation_Kavita_Jadhav_2025.pdf)
 
 ### 4. 🏗️ Evolution of Test Automation Frameworks
 
