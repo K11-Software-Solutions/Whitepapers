@@ -26,7 +26,7 @@ Case Study- Modernizing Enterprise QA: From Legacy Constraints to Agile Test Aut
 
 
 ### 1. Engineering Future-Ready Test Automation Frameworks for Hybrid Enterprise Architectures
-- **Summary**: ☕📘 This whitepaper offers a comprehensive, step-by-step blueprint for building full-stack, robust, and reusable test automation frameworks tailored for enterprise-grade applications. Case Study- Modernizing Enterprise QA: From Legacy Constraints to Agile Test Automation.
+- **Summary**: ☕📘 This whitepaper offers a comprehensive, step-by-step blueprint for building full-stack, robust, and reusable test automation frameworks tailored for enterprise-grade applications. 📘Case Study- Modernizing Enterprise QA: From Legacy Constraints to Agile Test Automation.
 - **Download**: [Legacy_to_Agile_QA_Automation_Kavita_Jadhav_July2025.pdf](https://github.com/K11-Software-Solutions/whitepapers/blob/main/Legacy_to_Agile_QA_Automation_Kavita_Jadhav_July2025.pdf)
 
 ### 2. Full-Stack Java Test Automation for Legacy Systems with Complex Business-Centric Scenarios Using Cucumber BDD and Model-Based Testing (MBT)
