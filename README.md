@@ -30,7 +30,7 @@ Case Study- Modernizing Enterprise QA: From Legacy Constraints to Agile Test Aut
 - **Download**: [Legacy_to_Agile_QA_Automation_Kavita_Jadhav_July2025.pdf](https://github.com/K11-Software-Solutions/whitepapers/blob/main/Legacy_to_Agile_QA_Automation_Kavita_Jadhav_July2025.pdf)
 
 ### 2. Full-Stack Java Test Automation for Complex Systems with Business-Centric Scenarios Using Cucumber BDD and Model-Based Testing (MBT)
-- **Summary**:  🧱📋🔄From Model-Aware to Model-Based Testing in the Age of AI: The Path to Smarter Automation. A modern strategy for resilient automation: blending Gherkin, graph models, and execution routing to test critical workflows across UI, API, and DB layers. 📘Case Study: A BDD/MBT Hybrid Framework for Intelligent Test Automation in Modern Trading Platforms.
+- **Summary**:  📋🔄From Model-Aware to Model-Based Testing in the Age of AI: The Path to Smarter Automation. A modern strategy for resilient automation: blending Gherkin, graph models, and execution routing to test critical workflows across UI, API, and DB layers. 📘Case Study: A BDD/MBT Hybrid Framework for Intelligent Test Automation in Modern Trading Platforms.
 - **Download**: [Full_Stack_BDD_MBT_Test_Automation_Kavita_Jadhav_2025.pdf](https://github.com/K11-Software-Solutions/whitepapers/blob/main/Full_Stack_BDD_MBT_Test_Automation_Kavita_Jadhav_2025.pdf)
 
 ### 4. 🏗️ Evolution of Test Automation Frameworks
