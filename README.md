@@ -28,7 +28,8 @@ Case Study- Modernizing Enterprise QA: From Legacy Constraints to Agile Test Aut
 ### 1. Engineering Future-Ready Test Automation Frameworks for Hybrid Enterprise Architectures
 - **Subtitle**: ☕📘A comprehensive guide to architecting a modular, maintainable, and CI/CD-ready Java-Selenium framework using the Page Object Model (POM). Designed for complex, high-demand enterprise environments, this framework supports both legacy systems and modern applications with scalable, future-proof automation. 
 - **📘Case Study**- Modernizing Enterprise QA: From Legacy Constraints to Agile Test Automation.
-- **Summary**: This whitepaper offers a comprehensive, step-by-step blueprint for building full-stack, robust, and reusable test automation frameworks tailored for enterprise-grade applications.
+- **Summary**: This article focuses on the QA transformation journey in hybrid enterprise environments—where legacy systems coexist with modern, cloud-native architectures. The objective is to present a practical blueprint for engineering or evolving a scalable, enterprise-grade automation solution—one that enables speed, resilience, and measurable quality across the software delivery lifecycle. This approach ensures robust support for both legacy platforms and modern applications within hybrid enterprise environments. This whitepaper offers a comprehensive, step-by-step blueprint for building full-stack, robust, and reusable test automation frameworks tailored for enterprise-grade applications.
+
 - **Download**: [Legacy_to_Agile_QA_Automation_Kavita_Jadhav_July2025.pdf](https://github.com/K11-Software-Solutions/whitepapers/blob/main/Legacy_to_Agile_QA_Automation_Kavita_Jadhav_July2025.pdf)
 
 ### 2. Full-Stack Java Test Automation for Legacy Systems with Complex Business-Centric Scenarios Using Cucumber BDD and Model-Based Testing (MBT)
@@ -43,6 +44,9 @@ Case Study- Modernizing Enterprise QA: From Legacy Constraints to Agile Test Aut
 - **📘Case Study**: Architecting a Service-Oriented Test Automation Platform for Enterprise-Scale End-to-End Testing in Complex, Multi-Technology Environments 
 - **Summary**: This whitepaper introduces a scalable approach to implementing end-to-end testing using a service-oriented orchestration model combined with multi-layer technology stack integration. It focuses on testing macro-level business transactions, integrated execution flows, and multi-layer system validation to reflect real-world operations with traceability, modularity, and resilience. Each test action—whether UI-based, API-driven, or backend-focused—is abstracted as a reusable component that can be dynamically orchestrated to simulate real-world business workflows. 
 - **Download intro**: [Java-Service-Orchestration-E2E-Testing-INTRO.pdf](https://github.com/K11-Software-Solutions/whitepapers/blob/main/Java-Service-Orchestration-E2E-Testing-INTRO.pdf)
+- **Download Complete Book**: [https://leanpub.com/Java-Service-Orchestration-E2E-Testing-Kavita-Jadhav-2025]
+
+
 
 ### 4. 🏗️ Evolution of Test Automation Frameworks
 
