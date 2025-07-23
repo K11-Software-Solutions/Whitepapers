@@ -45,7 +45,7 @@ Case Study- Modernizing Enterprise QA: From Legacy Constraints to Agile Test Aut
 - **Summary**: This whitepaper introduces a scalable approach to implementing end-to-end testing using a service-oriented orchestration model combined with multi-layer technology stack integration. It focuses on testing macro-level business transactions, integrated execution flows, and multi-layer system validation to reflect real-world operations with traceability, modularity, and resilience. Each test action—whether UI-based, API-driven, or backend-focused—is abstracted as a reusable component that can be dynamically orchestrated to simulate real-world business workflows. 
 - **Download intro**: [Java-Service-Orchestration-E2E-Testing-INTRO.pdf](https://github.com/K11-Software-Solutions/whitepapers/blob/main/Java-Service-Orchestration-E2E-Testing-INTRO.pdf)
 - **Purchase & Download Complete Book**: https://leanpub.com/Java-Service-Orchestration-E2E-Testing-Kavita-Jadhav-2025
-- 
+  
 
 
 
