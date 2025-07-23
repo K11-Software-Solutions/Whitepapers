@@ -26,12 +26,23 @@ Case Study- Modernizing Enterprise QA: From Legacy Constraints to Agile Test Aut
 
 
 ### 1. Engineering Future-Ready Test Automation Frameworks for Hybrid Enterprise Architectures
-- **Summary**: ☕📘 This whitepaper offers a comprehensive, step-by-step blueprint for building full-stack, robust, and reusable test automation frameworks tailored for enterprise-grade applications. 📘Case Study- Modernizing Enterprise QA: From Legacy Constraints to Agile Test Automation.
+- **Subtitle**: ☕📘A comprehensive guide to architecting a modular, maintainable, and CI/CD-ready Java-Selenium framework using the Page Object Model (POM). Designed for complex, high-demand enterprise environments, this framework supports both legacy systems and modern applications with scalable, future-proof automation. 
+- **📘Case Study**- Modernizing Enterprise QA: From Legacy Constraints to Agile Test Automation.
+- **Summary**: This whitepaper offers a comprehensive, step-by-step blueprint for building full-stack, robust, and reusable test automation frameworks tailored for enterprise-grade applications.
 - **Download**: [Legacy_to_Agile_QA_Automation_Kavita_Jadhav_July2025.pdf](https://github.com/K11-Software-Solutions/whitepapers/blob/main/Legacy_to_Agile_QA_Automation_Kavita_Jadhav_July2025.pdf)
 
 ### 2. Full-Stack Java Test Automation for Legacy Systems with Complex Business-Centric Scenarios Using Cucumber BDD and Model-Based Testing (MBT)
-- **Summary**:  📋🔄From Model-Aware to Model-Based Testing in the Age of AI: The Path to Smarter Automation. A modern strategy for resilient automation: blending Gherkin, graph models, and execution routing to test critical workflows across UI, API, and DB layers. 📘Case Study: A BDD/MBT Hybrid Framework for Intelligent Test Automation in Legacy Trading Platforms.
+- **Subtitle**:  📋🔄From Model-Aware to Model-Based Testing in the Age of AI: The Path to Smarter Automation. A modern strategy for resilient automation: blending Gherkin, graph models, and execution routing to test critical workflows across UI, API, and DB layers.
+- **📘Case Study**: A BDD/MBT Hybrid Framework for Intelligent Test Automation in Legacy Trading Platforms.
+- **Summary**: This whitepaper explores a modern and scalable approach to automating complex, business-critical systems using a hybrid of Behavior-Driven Development (BDD) and Model-Based Testing (MBT). It presents a full-stack Java testing strategy designed specifically for legacy systems—such as trading platforms and financial applications—that involve intricate workflows across UI, API, and database layers. Combining BDD with either AI-powered or traditional MBT (like GraphWalker) enables intelligent and scalable test coverage. When enhanced with time-sensitive data and real-world market conditions, this approach becomes especially powerful for testing complex systems like trading platforms, where behavior, state, timing, and data interconnect dynamically.
+
 - **Download**: [Full_Stack_BDD_MBT_Test_Automation_Kavita_Jadhav_2025.pdf](https://github.com/K11-Software-Solutions/whitepapers/blob/main/Full_Stack_BDD_MBT_Test_Automation_Kavita_Jadhav_2025.pdf)
+
+### 3. Java-Based Service-Orchestration Framework for End-to-End Testing Across Heterogeneous Enterprise Platforms
+- **Subtitle**:  📋🔄Dynamic Test Orchestration for Real-World Business Workflows at Scale.
+- **📘Case Study**: Architecting a Service-Oriented Test Automation Platform for Enterprise-Scale End-to-End Testing in Complex, Multi-Technology Environments 
+- **Summary**: This whitepaper introduces a scalable approach to implementing end-to-end testing using a service-oriented orchestration model combined with multi-layer technology stack integration. It focuses on testing macro-level business transactions, integrated execution flows, and multi-layer system validation to reflect real-world operations with traceability, modularity, and resilience. Each test action—whether UI-based, API-driven, or backend-focused—is abstracted as a reusable component that can be dynamically orchestrated to simulate real-world business workflows. 
+- **Download intro**: [Java-Service-Orchestration-E2E-Testing-INTRO.pdf](https://github.com/K11-Software-Solutions/whitepapers/blob/main/Java-Service-Orchestration-E2E-Testing-INTRO.pdf)
 
 ### 4. 🏗️ Evolution of Test Automation Frameworks
 
