@@ -21,17 +21,6 @@ The goal of this series is to provide practical engineering blueprints for build
 
 ---
 
-## 💡 Topics Covered
-
-- 🤖 **AI Development & Testing**
-- 🌐 **Full Stack Development & QA**
-- 🔁 **Evolution of Test Automation Frameworks**
-- 🧱 **Test Architecture Patterns**
-- 🧰 **Modernization of the Test Tech Stack**
-- ✅ **Engineering Best Practices**
-
----
-
 ## 📚 Available Whitepapers
 
 Modernizing Enterprise QA: From Legacy Constraints to Agile Test Automation to AI-Powered Test Automation
@@ -102,7 +91,16 @@ https://www.softwaretestautomation.org
 https://github.com/K11-Software-Solutions
 
 ---
+## 💡 📚 Focus Areas
 
+- 🤖 **AI Development & Testing**
+- 🌐 **Full Stack Development & QA**
+- 🔁 **Evolution of Test Automation Frameworks**
+- 🧱 **Test Architecture Patterns**
+- 🧰 **Modernization of the Test Tech Stack**
+- ✅ **Engineering Best Practices**
+
+---
 ## 📬 Feedback & Contributions
 
 Have feedback or want to collaborate on future whitepapers? Feel free to open an issue or reach out!
