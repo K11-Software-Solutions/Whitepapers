@@ -9,11 +9,11 @@ The collection explores practical strategies for designing resilient, modular, a
 
 Key topics covered in this series include:
 
-• Hybrid enterprise automation frameworks for legacy and cloud-native systems
-• Behavior-Driven Development (BDD) and Model-Based Testing (MBT) for complex business workflows
-• Service-oriented orchestration frameworks for enterprise-scale end-to-end testing
-• API-first testing architectures for microservices using Python, pytest, and OpenAPI contracts
-• Modern JavaScript testing ecosystems including Mocha, Chai, Jest, and Cypress for scalable Node.js and UI automation
+- Hybrid enterprise automation frameworks for legacy and cloud-native systems
+- Behavior-Driven Development (BDD) and Model-Based Testing (MBT) for complex business workflows
+- Service-oriented orchestration frameworks for enterprise-scale end-to-end testing
+- API-first testing architectures for microservices using Python, pytest, and OpenAPI contracts
+- Modern JavaScript testing ecosystems including Mocha, Chai, Jest, and Cypress for scalable Node.js and UI automation
 
 Each whitepaper combines real-world case studies, architectural design patterns, and implementation strategies drawn from enterprise QA transformation initiatives.
 
