@@ -1,7 +1,23 @@
 # Whitepapers
-# 📄 Technical Whitepapers by a Full Stack Test Engineering and AI Development Enthusiast
 
-This repository contains a collection of in-depth technical whitepapers authored by a passionate tech enthusiast aspiring to become a full stack software developer. These papers explore modern software development and testing topics across AI, full stack engineering, and test automation.
+# 📘 Enterprise Test Automation Whitepaper Series
+By Kavita Jadhav
+
+This whitepaper series presents advanced engineering approaches to modern test automation, focusing on scalable architectures for complex enterprise environments where legacy systems coexist with cloud-native platforms.
+
+The collection explores practical strategies for designing resilient, modular, and CI/CD-ready automation frameworks capable of supporting large-scale software delivery pipelines.
+
+Key topics covered in this series include:
+
+• Hybrid enterprise automation frameworks for legacy and cloud-native systems
+• Behavior-Driven Development (BDD) and Model-Based Testing (MBT) for complex business workflows
+• Service-oriented orchestration frameworks for enterprise-scale end-to-end testing
+• API-first testing architectures for microservices using Python, pytest, and OpenAPI contracts
+• Modern JavaScript testing ecosystems including Mocha, Chai, Jest, and Cypress for scalable Node.js and UI automation
+
+Each whitepaper combines real-world case studies, architectural design patterns, and implementation strategies drawn from enterprise QA transformation initiatives.
+
+The goal of this series is to provide practical engineering blueprints for building future-ready test automation platforms that support high-quality software delivery across evolving technology landscapes.
 
 ---
 
@@ -18,12 +34,9 @@ This repository contains a collection of in-depth technical whitepapers authored
 
 ## 📚 Available Whitepapers
 
+Modernizing Enterprise QA: From Legacy Constraints to Agile Test Automation to AI-Powered Test Automation
 
-
-
-Case Study- Modernizing Enterprise QA: From Legacy Constraints to Agile Test Automation
-
-
+This collection of whitepapers presents practical engineering approaches for transforming enterprise QA practices, evolving from traditional automation frameworks toward agile, scalable, and AI-assisted testing strategies.
 
 ### 1. Engineering Future-Ready Test Automation Frameworks for Hybrid Enterprise Architectures
 - **Subtitle**: ☕📘A comprehensive guide to architecting a modular, maintainable, and CI/CD-ready Java-Selenium framework using the Page Object Model (POM). 
@@ -47,12 +60,14 @@ Case Study- Modernizing Enterprise QA: From Legacy Constraints to Agile Test Aut
 - **Purchase & Download Complete Book**: https://leanpub.com/Java-Service-Orchestration-E2E-Testing-Kavita-Jadhav-2025
   
 
+### 4. Testing Microservices with pytest: Why API-First Testing Is the Only Strategy That Scales
+Subtitle: 🧪⚙️Modern API-First Testing for Distributed Systems Using Python, pytest, and OpenAPI Contracts.
+📘Case Study: Building Scalable Microservices Testing Pipelines with pytest, Contract Testing, and Containerized Environments.
+Summary: This whitepaper explores a modern testing strategy for microservices architectures where reliability depends heavily on service-to-service communication. It presents an API-first testing approach using pytest, demonstrating how fixtures, contract validation, and containerized test environments can be combined to build scalable and maintainable testing frameworks. The paper provides practical examples for validating microservices APIs, enforcing OpenAPI service contracts, and integrating automated tests into CI/CD pipelines. By focusing testing efforts at the API layer—where most failures occur—teams can achieve faster feedback cycles, improved reliability, and stronger confidence in distributed systems.
 
+Download:
+- **Download intro**: [Testing_Microservices_with_pytest_Kavita_Jadhav_March2026.pdf](https://github.com/K11-Software-Solutions/Whitepapers/blob/main/Testing_Microservices_with_pytest_Kavita_Jadhav_March2026.pdf)
 
-### 4. 🏗️ Evolution of Test Automation Frameworks
-
-
-### 3. 🧠 AI-Assisted Test Automation
 
 
 
