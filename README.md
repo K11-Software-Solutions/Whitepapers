@@ -61,11 +61,10 @@ This collection of whitepapers presents practical engineering approaches for tra
   
 
 ### 4. Testing Microservices with pytest: Why API-First Testing Is the Only Strategy That Scales
-Subtitle: 🧪⚙️Modern API-First Testing for Distributed Systems Using Python, pytest, and OpenAPI Contracts.
-📘Case Study: Building Scalable Microservices Testing Pipelines with pytest, Contract Testing, and Containerized Environments.
-Summary: This whitepaper explores a modern testing strategy for microservices architectures where reliability depends heavily on service-to-service communication. It presents an API-first testing approach using pytest, demonstrating how fixtures, contract validation, and containerized test environments can be combined to build scalable and maintainable testing frameworks. The paper provides practical examples for validating microservices APIs, enforcing OpenAPI service contracts, and integrating automated tests into CI/CD pipelines. By focusing testing efforts at the API layer—where most failures occur—teams can achieve faster feedback cycles, improved reliability, and stronger confidence in distributed systems.
+- Subtitle: 🧪⚙️Modern API-First Testing for Distributed Systems Using Python, pytest, and OpenAPI Contracts.
+- 📘Case Study: Building Scalable Microservices Testing Pipelines with pytest, Contract Testing, and Containerized Environments.
+- Summary: This whitepaper explores a modern testing strategy for microservices architectures where reliability depends heavily on service-to-service communication. It presents an API-first testing approach using pytest, demonstrating how fixtures, contract validation, and containerized test environments can be combined to build scalable and maintainable testing frameworks. The paper provides practical examples for validating microservices APIs, enforcing OpenAPI service contracts, and integrating automated tests into CI/CD pipelines. By focusing testing efforts at the API layer—where most failures occur—teams can achieve faster feedback cycles, improved reliability, and stronger confidence in distributed systems.
 
-Download:
 - **Download intro**: [Testing_Microservices_with_pytest_Kavita_Jadhav_March2026.pdf](https://github.com/K11-Software-Solutions/Whitepapers/blob/main/Testing_Microservices_with_pytest_Kavita_Jadhav_March2026.pdf)
 
 
