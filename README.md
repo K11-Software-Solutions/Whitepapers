@@ -41,7 +41,8 @@ This collection of whitepapers presents practical engineering approaches for tra
 ### 1. Engineering Future-Ready Test Automation Frameworks for Hybrid Enterprise Architectures
 - **Subtitle**: ☕📘A comprehensive guide to architecting a modular, maintainable, and CI/CD-ready Java-Selenium framework using the Page Object Model (POM). 
 - **📘Case Study**- Modernizing Enterprise QA: From Legacy Constraints to Agile Test Automation.
-- **Summary**: This article focuses on the QA transformation journey in hybrid enterprise environments—where legacy systems coexist with modern, cloud-native architectures. The objective is to present a practical blueprint for engineering or evolving a scalable, enterprise-grade automation solution—one that enables speed, resilience, and measurable quality across the software delivery lifecycle. This approach ensures robust support for both legacy platforms and modern applications within hybrid enterprise environments. This whitepaper offers a comprehensive, step-by-step blueprint for building full-stack, robust, and reusable test automation frameworks tailored for enterprise-grade applications. Designed for complex, high-demand enterprise environments, this framework supports both legacy systems and modern applications with scalable, future-proof automation. 
+- **Summary**: This article focuses on the QA transformation journey in hybrid enterprise environments—where legacy systems coexist with modern, cloud-native architectures. The objective is to present a practical blueprint for engineering or evolving a scalable, enterprise-grade automation solution—one that enables speed, resilience, and measurable quality across the software delivery lifecycle. This approach ensures robust support for both legacy platforms and modern applications within hybrid enterprise environments. This whitepaper offers a comprehensive, step-by-step blueprint for building full-stack, robust, and reusable test automation frameworks tailored for enterprise-grade applications. Designed for complex, high-demand enterprise environments, this framework supports both legacy systems and modern applications with scalable, future-proof automation.
+  
 
 - **Download**: [Legacy_to_Agile_QA_Automation_Kavita_Jadhav_July2025.pdf](https://github.com/K11-Software-Solutions/Whitepapers/blob/main/Legacy_to_Agile_QA_Automation_Kavita_Jadhav_2025.pdf)
 
@@ -52,16 +53,18 @@ This collection of whitepapers presents practical engineering approaches for tra
 
 - **Download**: [Full_Stack_BDD_MBT_Test_Automation_Kavita_Jadhav_2025.pdf](https://github.com/K11-Software-Solutions/whitepapers/blob/main/Full_Stack_BDD_MBT_Test_Automation_Kavita_Jadhav_2025.pdf)
 
+  
 ### 3. Java-Based Service-Orchestration Framework for End-to-End Testing Across Heterogeneous Enterprise Platforms
 - **Subtitle**:  📋🔄Dynamic Test Orchestration for Real-World Business Workflows at Scale.
 - **📘Case Study**: Architecting a Service-Oriented Test Automation Platform for Enterprise-Scale End-to-End Testing in Complex, Multi-Technology Environments 
 - **Summary**: This whitepaper introduces a scalable approach to implementing end-to-end testing using a service-oriented orchestration model combined with multi-layer technology stack integration. It focuses on testing macro-level business transactions, integrated execution flows, and multi-layer system validation to reflect real-world operations with traceability, modularity, and resilience. Each test action—whether UI-based, API-driven, or backend-focused—is abstracted as a reusable component that can be dynamically orchestrated to simulate real-world business workflows. 
 - **Download intro**: [Java-Service-Orchestration-E2E-Testing-INTRO.pdf](https://github.com/K11-Software-Solutions/whitepapers/blob/main/Java-Service-Orchestration-E2E-Testing-INTRO.pdf)
 - **Purchase & Download Complete Book**: https://leanpub.com/Java-Service-Orchestration-E2E-Testing-Kavita-Jadhav-2025
+
   
 
 ### 4. Testing Microservices with pytest: Why API-First Testing Is the Only Strategy That Scales
-- Subtitle: 🧪⚙️Modern API-First Testing for Distributed Systems Using Python, pytest, and OpenAPI Contracts.
+- Subtitle: Modern API-First Testing for Distributed Systems Using Python, pytest, and OpenAPI Contracts.
 - 📘Case Study: Building Scalable Microservices Testing Pipelines with pytest, Contract Testing, and Containerized Environments.
 - Summary: This whitepaper explores a modern testing strategy for microservices architectures where reliability depends heavily on service-to-service communication. It presents an API-first testing approach using pytest, demonstrating how fixtures, contract validation, and containerized test environments can be combined to build scalable and maintainable testing frameworks. The paper provides practical examples for validating microservices APIs, enforcing OpenAPI service contracts, and integrating automated tests into CI/CD pipelines. By focusing testing efforts at the API layer—where most failures occur—teams can achieve faster feedback cycles, improved reliability, and stronger confidence in distributed systems.
 
@@ -84,8 +87,19 @@ I'm a tech enthusiast with a deep interest in:
 
 This collection reflects my learning journey and contributions to the broader software engineering community.
 
-🔗 [Connect on LinkedIn](https://www.linkedin.com/in/kavita-jadhav-tech) 
-🌐 [Visit My Blog](https://www.softwaretestautomation.org)
+🌐 Connect & Explore
+
+🔗 LinkedIn
+https://www.linkedin.com/in/kavita-jadhav-tech
+
+🌐 Website
+https://k11softwaresolutions.com
+
+📝 Technical Blog
+https://www.softwaretestautomation.org
+
+💻 GitHub – Whitepapers & Engineering Projects
+https://github.com/K11-Software-Solutions
 
 ---
 
