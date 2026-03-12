@@ -57,10 +57,17 @@ This collection of whitepapers presents practical engineering approaches for tra
 - 📘Case Study: Building Scalable Microservices Testing Pipelines with pytest, Contract Testing, and Containerized Environments.
 - Summary: This whitepaper explores a modern testing strategy for microservices architectures where reliability depends heavily on service-to-service communication. It presents an API-first testing approach using pytest, demonstrating how fixtures, contract validation, and containerized test environments can be combined to build scalable and maintainable testing frameworks. The paper provides practical examples for validating microservices APIs, enforcing OpenAPI service contracts, and integrating automated tests into CI/CD pipelines. By focusing testing efforts at the API layer—where most failures occur—teams can achieve faster feedback cycles, improved reliability, and stronger confidence in distributed systems.
 
-- **Download intro**: [Testing_Microservices_with_pytest_Kavita_Jadhav_March2026.pdf](https://github.com/K11-Software-Solutions/Whitepapers/blob/main/Testing_Microservices_with_pytest_Kavita_Jadhav_March2026.pdf)
+- **Download**: [Testing_Microservices_with_pytest_Kavita_Jadhav_March2026.pdf](https://github.com/K11-Software-Solutions/Whitepapers/blob/main/Testing_Microservices_with_pytest_Kavita_Jadhav_March2026.pdf)
 
 
 
+### 5. Layered Testing for Modern Node.js Applications
+- Subtitle: Layered Testing for Modern Node.js Applications Using Jest, Mocha, Chai, Cypress, Supertest, Pact, NYC, and Sinon.
+- 📘Case Study: Designing a Layered Testing Architecture for Scalable Node.js Applications.
+- Summary: This whitepaper presents a layered testing architecture for modern Node.js applications, demonstrating how multiple testing frameworks can work together to validate software across different levels of system behavior. It explores unit testing with Jest and Mocha, API testing with Supertest, assertion libraries like Chai, mocking and stubbing using Sinon, contract testing using Pact, and test coverage analysis with NYC. The paper also discusses end-to-end testing using Cypress and explains how these tools integrate into modern CI/CD pipelines. By combining these frameworks within a layered strategy, engineering teams can build scalable testing architectures that support reliable and maintainable Node.js applications.
+
+- **Download**: [Layered_Testing_for_Node.js_Applications_Kavita_Jadhav_March2026_v1.pdf](https://github.com/K11-Software-Solutions/Whitepapers/blob/main/Layered_Testing_for_Node.js_Applications_Kavita_Jadhav_March2026_v1.pdf)
+ 
 
 
 
