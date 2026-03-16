@@ -14,6 +14,7 @@ Key topics covered in this series include:
 - Service-oriented orchestration frameworks for enterprise-scale end-to-end testing
 - API-first testing architectures for microservices using Python, pytest, and OpenAPI contracts
 - Modern JavaScript testing ecosystems including Mocha, Chai, Jest, and Cypress for scalable Node.js and UI automation
+- AI-augmented browser automation architectures using Vibium, WebDriver BiDi, and MCP
 
 Each whitepaper combines real-world case studies, architectural design patterns, and implementation strategies drawn from enterprise QA transformation initiatives.
 
@@ -69,8 +70,13 @@ This collection of whitepapers presents practical engineering approaches for tra
 - **Download**: [Layered_Testing_for_Node.js_Applications_Kavita_Jadhav_March2026_v1.pdf](https://github.com/K11-Software-Solutions/Whitepapers/blob/main/Layered_Testing_for_Node.js_Applications_Kavita_Jadhav_March2026_v1.pdf)
  
 
+### 6. Vibium in Context: AI-Native Browser Automation via WebDriver BiDi and MCP
+- Subtitle: AI-Native Browser Automation: Integrating Vibium, WebDriver BiDi, and MCP for Agent-Driven Testing.
+- 📘 Case Study: Building an AI-Augmented Browser Automation Architecture with Vibium, MCP, and WebDriver BiDi.
+- Summary: This whitepaper explores the architecture of AI-native browser automation, where automation frameworks operate alongside intelligent agents. It introduces Vibium as a modern browser automation runtime capable of exposing browser actions through MCP (Model Context Protocol) tools. Combined with WebDriver BiDi, this architecture enables AI agents to interpret natural-language goals and execute browser automation workflows programmatically. The paper demonstrates how AI agents, MCP servers, Vibium automation runtime, and WebDriver BiDi communication together create agent-driven automation systems capable of adaptive testing, structured reporting, and CI pipeline integration.
+- **Download**: https://github.com/K11-Software-Solutions/Whitepapers/blob/main/Vibium%20in%20Context_%20AI-Native%20Browser%20Automation%20via%20WebDriver%20BiDi%20and%20MCP.pdf
 
-
+  
 ---
 
 ## 🧑‍💻 About the Author
