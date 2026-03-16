@@ -74,7 +74,7 @@ This collection of whitepapers presents practical engineering approaches for tra
 - Subtitle: AI-Native Browser Automation: Integrating Vibium, WebDriver BiDi, and MCP for Agent-Driven Testing.
 - 📘 Case Study: Building an AI-Augmented Browser Automation Architecture with Vibium, MCP, and WebDriver BiDi.
 - Summary: This whitepaper explores the architecture of AI-native browser automation, where automation frameworks operate alongside intelligent agents. It introduces Vibium as a modern browser automation runtime capable of exposing browser actions through MCP (Model Context Protocol) tools. Combined with WebDriver BiDi, this architecture enables AI agents to interpret natural-language goals and execute browser automation workflows programmatically. The paper demonstrates how AI agents, MCP servers, Vibium automation runtime, and WebDriver BiDi communication together create agent-driven automation systems capable of adaptive testing, structured reporting, and CI pipeline integration.
-- **Download**: https://github.com/K11-Software-Solutions/Whitepapers/blob/main/Vibium%20in%20Context_%20AI-Native%20Browser%20Automation%20via%20WebDriver%20BiDi%20and%20MCP.pdf
+- **Download**: [Vibium_in_Context_ AI-Native_Browser_Automation_via WebDriver_BiDi_and_MCP.pdf](https://github.com/K11-Software-Solutions/Whitepapers/blob/main/Vibium_in_Context_%20AI-Native_Browser_Automation_via%20WebDriver_BiDi_and_MCP.pdf)
 
   
 ---
